@@ -6,7 +6,8 @@ This project presents an interactive IPL Cricket Analytics Dashboard developed u
 The dashboard helps users explore cricket statistics through interactive visualizations.
 
 ## 🖥️ Dashboard Preview
-![IPL Dashboard](Screenshots/IPL-Dashboard.png)
+![IPL Dashboard](Screenshots/IPL-Dashboard.png.png)
+  
 
 ## 🛠️ Tools Used
 - Microsoft Power BI
